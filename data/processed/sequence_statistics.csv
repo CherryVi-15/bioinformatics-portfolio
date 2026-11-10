@@ -1,0 +1,6 @@
+species,accession,length_bp,valid_base_count,A_count,T_count,G_count,C_count,N_count,GC_content_percent,ambiguous_base_percent
+human,OR327029.1,1542,1542,419,411,250,462,0,46.174,0.0
+mouse,OM948981.1,1545,1545,456,473,249,367,0,39.871,0.0
+dog,MN699634.1,1545,1505,399,490,265,351,40,40.93,2.589
+cattle,AF490528.1,1545,1545,444,458,252,391,0,41.618,0.0
+chicken,PQ664590.1,1551,1551,423,397,248,483,0,47.131,0.0

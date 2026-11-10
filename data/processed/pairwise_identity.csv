@@ -1,0 +1,11 @@
+species_1,species_2,identical_sites,comparable_sites,gap_sites,identity_percent
+human,mouse,1200,1539,9,77.973
+human,dog,1162,1497,13,77.622
+human,cattle,1228,1539,9,79.792
+human,chicken,1194,1542,9,77.432
+mouse,dog,1204,1505,0,80.0
+mouse,cattle,1241,1545,0,80.324
+mouse,chicken,1203,1542,12,78.016
+dog,cattle,1205,1505,0,80.066
+dog,chicken,1140,1505,6,75.748
+cattle,chicken,1200,1545,6,77.67

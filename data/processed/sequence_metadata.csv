@@ -1,0 +1,6 @@
+species,label,accession,length_bp,sequence_file
+Homo sapiens,human,OR327029.1,1542,data/raw/human_COI.fasta
+Mus musculus,mouse,OM948981.1,1545,data/raw/mouse_COI.fasta
+Canis lupus familiaris,dog,MN699634.1,1545,data/raw/dog_COI.fasta
+Bos taurus,cattle,AF490528.1,1545,data/raw/cattle_COI.fasta
+Gallus gallus,chicken,PQ664590.1,1551,data/raw/chicken_COI.fasta
